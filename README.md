@@ -49,6 +49,3 @@ Practiced relational database design, SQL queries, primary and foreign keys, and
 ## Certification
 
 freeCodeCamp Relational Database Certification
-
-
-Ye version **zyada clean lagega** aur unnecessary long explanation bhi nahi hai.
